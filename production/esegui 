@@ -1,0 +1,3 @@
+sudo sh reset_ic880a.sh
+
+RADIODEV=/dev/spidev0.0 sudo ../build-rpi-std/bin/station
